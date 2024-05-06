@@ -1,0 +1,18 @@
+body
+{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    font-size: x-large;
+    flex-direction: column;
+    color: white;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+p 
+{
+    margin: 10;
+}
