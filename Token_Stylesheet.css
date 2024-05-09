@@ -3,7 +3,7 @@ body
     display: flex;
     height: 100%;
     width: 100%;
-    font-size: small;
+    font-size: x-large;
     flex-direction: column;
     color: white;
     background-color: black;
